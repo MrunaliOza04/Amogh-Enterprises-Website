@@ -90,7 +90,7 @@ Amogh_Enterprises
 
 **Mrunali Oza**
 
-GitHub: https://github.com/MrunaliOza04
+GitHub: https://github.com/MrunaliOza04/Amogh-Enterprises-Website
 
 LinkedIn: https://www.linkedin.com/in/mrunali-oza04
 
